@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently persuing my 4th year of Engineering in EIE (detp) at RV College of Engineering , Banglore and am curently looking for major project ideas.
+I'm currently pursuing my 4th year of Engineering in EIE (detp) at RV College of Engineering , Banglore and am curently looking for major project ideas.
 Data analytics projects, IoT-based solutions, and real-world problem-solving ideas.<br><br> Improving my data analysis skills and building industry-level projects .<br><br>python, SQL, Data Analytics, and Machine Learning basics .<br>Arduino, Embedded Systems, Signal Processing, and beginner-level data projects .<br><br>I love combining creativity with tech — from building IoT systems to doing art and calligraphy 🎨<br>  
 
 

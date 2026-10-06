@@ -1,9 +1,11 @@
 # 💫 About Me:
-I'm currently pursuing my 4th year of Engineering in EIE (detp) at RV College of Engineering , Banglore and am curently looking for major project ideas.
-<br><br> 
+I’m Saniya, a graduate of **R.V. College of Engineering, Bangalore**, with a background in Electronics and Instrumentation Engineering. I’m currently looking for **internship and entry-level opportunities in Data Analytics, Data Science, and technology-driven roles**.
 
-Intreseted in collabrating with Data analytics projects, IoT-based solutions, and real-world problem-solving ideas.<br><br> 
-Improving my data analysis skills and building industry-level projects .<br><br>python, SQL, Data Analytics, and Machine Learning basics .<br>Arduino, Embedded Systems, Signal Processing, and beginner-level data projects .<br><br>I love combining creativity with tech — from building IoT systems to doing art and calligraphy 🎨<br>  
+I’m particularly interested in working on **data analytics projects, real-world problem-solving, IoT-based solutions, and technology-driven applications**. I’m actively strengthening my skills in **Python, SQL, Excel, Power BI, data analysis, and machine learning fundamentals**, while building practical projects to develop industry-ready experience.
+
+My engineering background has also given me hands-on exposure to **Arduino, embedded systems, sensors, signal processing, IoT, and communication technologies**, which helps me approach problems from both a technical and analytical perspective.
+
+I enjoy turning ideas into practical solutions and combining **creativity with technology**. Outside of tech, I enjoy **art and calligraphy** 🎨.<br>  
 
 
 ## 🌐 Socials:
